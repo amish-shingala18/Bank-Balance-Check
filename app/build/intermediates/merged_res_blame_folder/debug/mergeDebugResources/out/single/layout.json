@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-mergeDebugResources-30:\\layout\\activity_bank_info.xml",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\layout\\activity_bank_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-mergeDebugResources-30:\\layout\\activity_interest.xml",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\layout\\activity_interest.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-mergeDebugResources-30:\\layout\\categories.xml",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\layout\\categories.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-mergeDebugResources-30:\\layout\\activity_gst_calculator.xml",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\layout\\activity_gst_calculator.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-mergeDebugResources-30:\\layout\\bank_name.xml",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\layout\\bank_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-mergeDebugResources-30:\\layout\\exit_dialog.xml",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\layout\\exit_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-mergeDebugResources-30:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-mergeDebugResources-30:\\layout\\activity_mutual_fund.xml",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\layout\\activity_mutual_fund.xml"
+    },
+    {
+        "merged": "com.example.bankbalancecheck.app-mergeDebugResources-30:/layout/activity_banks.xml",
+        "source": "com.example.bankbalancecheck.app-main-33:/layout/activity_banks.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-mergeDebugResources-30:\\layout\\activity_emicalculator.xml",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\layout\\activity_emicalculator.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-mergeDebugResources-30:\\layout\\activity_banks.xml",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\layout\\activity_banks.xml"
+    }
+]

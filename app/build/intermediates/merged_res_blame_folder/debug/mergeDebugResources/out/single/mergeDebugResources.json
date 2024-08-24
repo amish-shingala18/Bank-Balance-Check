@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\layout_bank_name.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\layout\\bank_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\layout_activity_banks.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\layout\\activity_banks.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\drawable_customer_care.png.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\drawable\\customer_care.png"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\drawable_bank.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\drawable\\bank.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\drawable_next.png.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\drawable\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\drawable_ifsc_micr.png.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\drawable\\ifsc_micr.png"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\layout_exit_dialog.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\layout\\exit_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\layout_categories.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\layout\\categories.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\drawable_card.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\drawable\\card.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\drawable_bankbalance.png.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\drawable\\bankbalance.png"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\drawable_bank_building.png.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\drawable\\bank_building.png"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bankbalancecheck.app-debug-31:/layout_activity_banks.xml.flat",
+        "source": "com.example.bankbalancecheck.app-main-33:/layout/activity_banks.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\drawable_mini_stat.png.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\drawable\\mini_stat.png"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\drawable_emi.png.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\drawable\\emi.png"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\layout_activity_emicalculator.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\layout\\activity_emicalculator.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\layout_activity_bank_info.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\layout\\activity_bank_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\drawable_sip.png.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\drawable\\sip.png"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\drawable_location.png.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\drawable\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\drawable_mutual_fund.png.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\drawable\\mutual_fund.png"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\layout_activity_interest.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\layout\\activity_interest.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\layout_activity_gst_calculator.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\layout\\activity_gst_calculator.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\drawable_gst.png.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\drawable\\gst.png"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\drawable_rectangle.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\drawable\\rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\layout_activity_mutual_fund.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\layout\\activity_mutual_fund.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\drawable_back.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\drawable\\back.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.bankbalancecheck.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    }
+]
